@@ -3,6 +3,10 @@
 This repository is created as an example for post I wrote on my blog: [JWT Authentication Tutorial: An example using Spring Boot](http://svlada.com/jwt-token-authentication-with-spring-boot/)
 
 
+Chinese link: http://www.jianshu.com/p/2ed71e3e52b8
+
+
+
 ## Table of contents:
 1. <a title="Introduction: JWT Token" href="#introduction">Introduction</a>
 2. <a title="pre-requisites" href="#pre-requisites">PRE-requisites</a>
